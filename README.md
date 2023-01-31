@@ -1,1 +1,1 @@
-# crazybeings-api
+# crazybeings
